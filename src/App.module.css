@@ -1,0 +1,12 @@
+.App {
+  width: 66.67%;
+  margin: 1rem auto;
+  background-color: #ffffff;
+}
+
+.AppImage {
+  display: block;
+  width: 100%;
+  max-width: 32em;
+  margin: 0 auto;
+}

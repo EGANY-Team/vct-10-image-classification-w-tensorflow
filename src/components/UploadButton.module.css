@@ -1,0 +1,19 @@
+.UploadButton label {
+  display: block;
+  max-width: 240px;
+  margin: 0.5rem auto;
+  padding: 0.5rem 1rem;
+  color: white;
+  background-color: teal;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.UploadButton label:hover {
+  cursor: pointer;
+  opacity: 0.6;
+}
+
+.UploadButton input[type="file"] {
+  display: none;
+}

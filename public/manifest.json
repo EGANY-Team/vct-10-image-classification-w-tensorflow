@@ -1,0 +1,15 @@
+{
+  "short_name": "VCT#10 - Tensorflow",
+  "name": "Vọc cùng Thành #10 - Image classification với Tensorflow",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

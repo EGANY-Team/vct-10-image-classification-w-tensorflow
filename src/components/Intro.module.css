@@ -1,0 +1,30 @@
+.Intro {
+  text-align: center;
+}
+
+.Intro h3 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 0.75rem;
+  color: teal;
+}
+
+.Intro h2 {
+  color: orange;
+  line-height: 1.25rem;
+  font-weight: 600;
+}
+
+.Intro p a {
+  text-decoration: none;
+  padding: 0 1rem;
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.Intro p a:first-of-type {
+  border-right: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.Intro p a:hover {
+  opacity: 0.6;
+}

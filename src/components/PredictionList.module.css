@@ -1,0 +1,26 @@
+.EmptyPredictionList {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.PredictionList {
+  margin: 0;
+  padding: 0;
+}
+
+.PredictionList li {
+  list-style-position: inside;
+  list-style-type: square;
+}
+
+.LowPercentage {
+  color: red;
+}
+
+.MediumPercentage {
+  color: orange;
+}
+
+.HighPercentage {
+  color: teal;
+}
